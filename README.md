@@ -1,3 +1,7 @@
 # Classification-of-Retailers-ML
-How will you classify retailers using sales data of Feb’17. : Please name analytics techniques which can used for classification
-bhgfbn 
+
+In this Classification of Retailers is done uisng parameters such as 
+
+- Number of Brands the retailer purchased 
+
+- Total Sales Amount, and many others.
